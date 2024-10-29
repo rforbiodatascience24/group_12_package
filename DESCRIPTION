@@ -1,0 +1,30 @@
+Package: CentraDogma
+Type: Package
+Title: Replicates the central dogma for molecular biology
+Version: 0.1.0
+Authors@R:
+  c(person(given = "Cecille",
+           family = "Hobbs",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "ys203542@dtu.dk"), 
+    person(given = "Mille",
+           family = "Sander",
+           role = "aut",
+           email = "s203556@dtu.dk"),
+    person(given = "Agnes",
+           family = "Lorenzen",
+           role = "aut",
+           email = "s194692@dtu.dk"),
+    person(given = "Julie",
+           family = "Petersen",
+           role = "aut",
+           email = "juldp@dtu.dk"),
+    person(given = "Freja",
+           family = "Klippmann",
+           role = "aut",
+           email = "freli@dtu.dk"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Makes a replica of how the central dogma works
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
